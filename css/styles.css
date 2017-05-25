@@ -1,0 +1,23 @@
+.top {
+  float: right;
+  padding: 4px;
+  color: blue;
+  font-size: 12px;
+}
+
+/*.container {
+  border: black 1px;
+  margin-left: 160px;
+  margin-top: 40px;*/
+}
+
+.well p {
+  text-align: center;
+}
+#welcome {
+  text-align: center;
+  float:left;
+}
+.well {
+  border: solid black 1px
+}
