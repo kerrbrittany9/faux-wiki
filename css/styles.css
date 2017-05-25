@@ -21,3 +21,12 @@
 .well {
   border: solid black 1px
 }
+
+.sidebar {
+  width: 10%;
+  float: left;
+  border: solid black 1px;
+  overflow: none;
+  text-align: center;
+
+}
